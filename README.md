@@ -1,7 +1,8 @@
-# Tailscale for muOS (RG40XXV)
+# Tailscale for muOS
 
-A native GUI app for connecting your Anbernic RG40XXV (and other muOS devices) to your [Tailscale](https://tailscale.com) tailnet. Browse your peers, send/receive files via Taildrop, and authenticate via QR code — all from your handheld.
+A native GUI app for connecting your MuOS devices to your [Tailscale](https://tailscale.com) tailnet. Browse your peers, send/receive files via Taildrop, and authenticate via QR code — all from your handheld.
 
+Images here: https://imgur.com/a/dE1sKq2
 
 ## Features
 
