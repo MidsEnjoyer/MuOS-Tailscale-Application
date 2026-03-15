@@ -100,7 +100,7 @@ Tailscale/
 
 ## Credits
 
-Built with Claude Sonet using Python 3 and SDL2 via ctypes. QR code generation is pure Python with no external dependencies.
+Built with Claude Sonnet 4.6 using Python 3 and SDL2 via ctypes. QR code generation is pure Python with no external dependencies.
 
 Tested on:
 - Anbernic RG40XXV running muOS 2410.3 AW BANANA
